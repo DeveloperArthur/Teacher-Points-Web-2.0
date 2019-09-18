@@ -29,3 +29,7 @@ input{
 	background-color: white;
 	color: #383838;
 }
+
+html{
+    scroll-behavior: smooth;
+}
